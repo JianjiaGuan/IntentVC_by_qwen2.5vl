@@ -53,7 +53,6 @@ pip install modelscope
 
 ```bash
 python bbox.py
-python bbox_xin.py
 
 ```
 
