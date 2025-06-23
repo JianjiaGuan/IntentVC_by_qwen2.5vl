@@ -19,9 +19,6 @@
 ```bash
 # 安装 Qwen VL 工具包
 pip install qwen-vl-utils
-
-# 安装 ModelScope
-pip install modelscope
 ```
 
 ### 3. 环境文件说明
