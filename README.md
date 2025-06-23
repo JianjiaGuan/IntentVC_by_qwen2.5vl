@@ -27,7 +27,6 @@ pip install modelscope
 ### 3. 环境文件说明
 
 - `requirements.txt`: 官方环境依赖列表
-- `requirements_me.txt`: 当前项目环境依赖列表
 
 ## 数据准备
 
